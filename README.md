@@ -16,6 +16,7 @@ mkdir build
 cd build
 cmake ..
 make -j12
+./test
 ```
 
 ## Interface - examples
